@@ -1,0 +1,17 @@
+# Python / Virtualenv
+__pycache__/
+*.py[cod]
+venv/
+.env
+
+# Node.js (nếu có dùng React)
+node_modules/
+dist/
+build/
+
+# Heavy AI Artifacts / Datasets
+*.pt
+*.bin
+*.onnx
+data/
+artifacts/
